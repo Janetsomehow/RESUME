@@ -1,0 +1,46 @@
+body{
+    font-family: 'Open Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.Main{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+h4{
+    color: #2079c7;
+    font-size: 9px;
+}
+
+h3{
+    font-family: 'Merriweather';
+    font-size: 11px;
+}
+
+h1{
+    font-family: 'Merriweather';
+    font-size: 36px;
+}
+
+p{
+    font-size: 9px;
+    font-family: 'Merriweather'
+
+}
+
+h5{
+    font-size: 8px;
+}
+    
+.div1{
+padding: 20px;
+}
+
+.address{
+    padding-top: 10px;
+}
+
+.div2{
+    padding-top: 30px;
+}
